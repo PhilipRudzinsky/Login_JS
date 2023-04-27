@@ -1,0 +1,66 @@
+body {
+    background-color: rgb(9, 161, 161);
+  color: aliceblue;
+  font-family: Arial, sans-serif;
+  margin: auto;
+}
+
+.headers {
+  font-size: 100px;
+}
+
+.navbar {
+  background-color: rgb(9, 161, 161);
+}
+
+#title {
+  padding: 30px;
+}
+#login-button {
+  border-radius: 5px;
+  margin-right: 25px;
+  background-color: rgb(13, 95, 92);
+  padding-right: 10px;
+  padding-left: 10px;
+  padding: 5px;
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+}
+.text-center {
+    margin-top: 20px;
+    border-radius: 20px;
+    background-color: rgb(9, 161, 161);
+    margin-bottom: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.adds {
+ 
+  justify-content: center;
+  text-align: center;
+
+  
+}
+
+.add1{
+    float: left;
+    width: 400px;
+    margin-left: 150px
+}
+.add2{
+    
+    display: inline-block;
+    width: 400px;
+  
+}
+.add3{
+
+    float: right;
+    width: 400px;
+    margin-right: 150px;
+}
+
+.logo{
+    margin: 5px;
+}

@@ -1,0 +1,41 @@
+body {
+  background-color: rgb(9, 161, 161);
+  color: aliceblue;
+  font-family: Arial, sans-serif;
+  margin: auto;
+}
+
+.headers {
+  font-size: 100px;
+}
+
+.navbar {
+  background-color: rgb(9, 161, 161);
+}
+
+.adds {
+  justify-content: center;
+  float: left;
+}
+.basket {
+  float: right;
+  margin: 50px;
+}
+
+.add {
+  margin: 50px;
+
+}
+
+.logo {
+  margin: 5px;
+}
+.item-caption {
+  padding: 20px;
+  border-radius: 20px;
+  background-color: rgb(9, 161, 161);
+  font-size: 30px;
+}
+.basket-button{
+    margin: 20px;
+}
